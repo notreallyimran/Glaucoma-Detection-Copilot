@@ -4,12 +4,12 @@ This Matlab-powered application classifies DFIs into glaucoma positive (GON+). O
 
 
 # Project Files
-crop dataset - preprocesses data
-train_model.m - trains data
-generate_features - Features extraction
-generate_report_metrics - displays confusion matrix, ROC-AUC snd performance parameters
-app1.mlapp - Runs our detection app
-glaucoma_model.mat - contains saved workspace
+1. crop dataset - preprocesses data
+2. train_model.m - trains data
+3. generate_features - Features extraction
+4. generate_report_metrics - displays confusion matrix, ROC-AUC snd performance parameters
+5. app1.mlapp - Runs our detection app
+6. glaucoma_model.mat - contains saved workspace, trained model
 
 # Before Running the App
 1. This app only work on Matlab R2024a and later version
@@ -19,7 +19,7 @@ glaucoma_model.mat - contains saved workspace
 - image processing toolbox
 
 # Using the App
-1. Open app1, this may take a while
+1. Open app1.mlapp, this may take a while
 2. Upload any DFI from dataset
 3. Wait for model's verdict
 
