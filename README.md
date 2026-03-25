@@ -33,4 +33,4 @@ This Matlab-powered application classifies DFIs into glaucoma positive (GON+). O
 
 # Authors
 1. Imran Fareez Azmy - imranfareez1@gmail.com
-2. Ahmad Nafis Zulkiifli - ahmadnafiszulkifli@gmail.com
+2. Ahmad Nafis Mohd Zulkiifli - ahmadnafiszulkifli@gmail.com
