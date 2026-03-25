@@ -3,7 +3,7 @@ This Matlab-powered application classifies DFIs into glaucoma positive (GON+) an
 
 Dataset obtained from https://physionet.org/content/hillel-yaffe-glaucoma-dataset/1.0.0/
 
-IMPORTANT
+[IMPORTANT]
 MATLAB Toolboxes to install:
 - deep learning toolbox
 - deep learning toolbox for resnet-50 network
