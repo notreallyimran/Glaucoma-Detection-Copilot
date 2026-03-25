@@ -22,7 +22,7 @@ glaucoma_model.mat - contains saved workspace
 # Using the App
 1. Open app1, this may take a while
 2. Upload any DFI from dataset
-3. EWait for model's verdict
+3. Wait for model's verdict
 
 # FAQ
 1. I can't run the app
