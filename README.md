@@ -32,9 +32,9 @@ Our ResNet-50 Neural Network is trained with DFIs from Hillel Yaffe Glaucoma Dat
     - Install the toolboxes
 2. I 've installed the toolboxes and it's still not running
       Follow these steps:
-    i) Open matlab>home>import data>open glaucoma_model>tick trainedNet>click import
-   ii) Type appdesigner on command window and load app1
-   iii) Run app1
+      - Open matlab>home>import data>open glaucoma_model>tick trainedNet>click import
+      - Type appdesigner on command window and load app1
+      - Run app1
 
 # Authors
 1. Imran Fareez Azmy - imranfareez1@gmail.com
