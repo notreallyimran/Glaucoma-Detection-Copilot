@@ -24,7 +24,7 @@ glaucoma_model.mat - contains saved workspace
 2. Upload any DFI from dataset
 3. EWait for model's verdict
 
-#FAQ
+# FAQ
 1. I can't run the app
 - Install the toolboxes
 2. I 've installed the toolboxes but it's still not running
