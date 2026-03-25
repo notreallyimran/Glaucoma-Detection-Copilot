@@ -1,20 +1,29 @@
-# Glaucoma Detection Copilot App using ResNet-50 Neural Network and Grad-CAM XAI
+# Glaucoma Detection App using ResNet-50 Neural Network and Grad-CAM XAI
+# Project Overview
 This Matlab-powered application classifies DFIs into glaucoma positive (GON+) and healthy patient Using Hillel Yaffe Glaucoma Dataset
 
 Dataset obtained from https://physionet.org/content/hillel-yaffe-glaucoma-dataset/1.0.0/
 
-[IMPORTANT]
-MATLAB Toolboxes to install:
+# Project Files
+crop dataset - preprocesses data
+train_model.m - trains data
+generate_features - Features extraction
+generate_report_metrics - displays confusion matrix, ROC-AUC snd performance parameters
+app1.mlapp - Runs our detection app
+glaucoma_model - contains saved workspace
+
+# IMPORTANT (Before running the app)
+Install these Toolboxes on Matlab:
 - deep learning toolbox
 - deep learning toolbox for resnet-50 network
 - image processing toolbox
 
--------------HOW TO OPEN----------------------
+# HOW TO OPEN
 1. Open app1
 2. Upload any DFI from dataset
 3. Enjoy
 
--------------IF IT'S NOT WORKING---------------
+# IF IT'S NOT WORKING
 1. Open glaucoma_model.mat, wait for import data prompt to show up
 2. Tick trainNed and select import
 3. write appdesigner on command window, open app1
